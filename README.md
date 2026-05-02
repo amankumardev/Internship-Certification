@@ -1,22 +1,25 @@
 # 🎓 Internship Certificates – Aman Kumar
 
-Welcome to my Internship Certificates repository.
-This repository contains my verified internship offer letters and completion certificates in **Web Development**.
+![GitHub repo size](https://img.shields.io/github/repo-size/amankumardev/internship-certificates)
+![GitHub stars](https://img.shields.io/github/stars/amankumardev/internship-certificates?style=social)
 
 ---
 
 ## 🚀 About Me
 
-I am a B.Tech Computer Science student passionate about **Full Stack Development, AI projects, and real-world problem solving**.
-These internships helped me gain practical industry experience and improve my technical skills.
+Hi, I’m **Aman Kumar**, a B.Tech Computer Science student passionate about **Full Stack Development, AI, and building real-world applications**.
+
+This repository contains my verified internship certificates, reflecting my hands-on experience in **Web Development**.
 
 ---
 
-## 📜 Internship Certificates
+## 📜 Internship Experience
+
+---
 
 ### 🔹 InternPe – Web Development Intern
 
-📅 **Duration:** July 2024 (4 Weeks)
+📅 **Duration:** 01 July 2024 – 28 July 2024
 🏢 **Company:** InternPe
 💼 **Role:** Web Development Intern
 
@@ -62,27 +65,27 @@ These internships helped me gain practical industry experience and improve my te
 
 ---
 
-## 🧠 Skills Gained
+## 🧠 Skills & Experience Gained
 
-* Frontend Development (HTML, CSS, JavaScript)
-* React.js Basics
-* API Integration
-* Problem Solving
-* Real-world Project Development
-* Team Collaboration
+* 🌐 Frontend Development (HTML, CSS, JavaScript)
+* ⚛️ React.js Fundamentals
+* 🔗 API Integration
+* 🧩 Problem Solving & Debugging
+* 💼 Real-world Project Development
+* 🤝 Team Collaboration & Communication
 
 ---
 
-## 📂 Folder Structure
+## 📂 Repository Structure
 
-```id="8m9r2l"
-📁 certificates/
- ┣ 📄 internpe-offer.jpg
- ┣ 📄 internpe-certificate.jpg
- ┣ 📄 cognifyz-offer.jpg
- ┣ 📄 cognifyz-certificate.jpg
- ┣ 📄 codsoft-offer.jpg
- ┗ 📄 codsoft-certificate.jpg
+```bash
+certificates/
+├── internpe-offer.jpg
+├── internpe-certificate.jpg
+├── cognifyz-offer.jpg
+├── cognifyz-certificate.jpg
+├── codsoft-offer.jpg
+└── codsoft-certificate.jpg
 ```
 
 ---
@@ -95,10 +98,15 @@ These internships helped me gain practical industry experience and improve my te
 
 ---
 
-## ⭐ Final Note
+## ⭐ Final Thoughts
 
-These internships strengthened my foundation in web development and gave me exposure to real-world workflows and project execution.
+These internships helped me build a strong foundation in web development and gain practical exposure to industry-level workflows.
+
+---
+
+✨ **If you like this repository, don’t forget to star it!**
 
 ---
 
 **Made with ❤️ by Aman Kumar**
+
